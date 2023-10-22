@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **C++, JavaScript, but open to anything.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RonaldForte](https://github.com/RonaldForte)
-
 - 💬 Ask me about **C++, HTML, CSS, Python, SQL.**
 
 - 📫 How to reach me **ronaldjrforte@gmail.com**
