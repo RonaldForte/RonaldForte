@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/TTy5YmVmhmWhq/giphy.webp">
 
-- 🔭 I’m currently working on [on CS235 in college.](https://github.com/RonaldForte/CS235)
+- 🔭 I’m currently working on [on CS335 in college.](https://github.com/RonaldForte/CS235)
 
 - 🌱 I’m currently learning **C++, JavaScript, but open to anything.**
 
