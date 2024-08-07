@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/TTy5YmVmhmWhq/giphy.webp">
 
-- 🔭 I’m currently working on [on CS335 in college.](https://github.com/RonaldForte/CS235)
+- 🔭 I’m currently working on Capstone in college.
 
 - 🌱 I’m currently learning **C++, JavaScript, but open to anything.**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ronaldjrforte@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zIdEoF0T6-VDWZFS05je9xBCWnNwmW_WsOt9FsxE9UQ/edit?usp=sharing](https://docs.google.com/document/d/1zIdEoF0T6-VDWZFS05je9xBCWnNwmW_WsOt9FsxE9UQ/edit?usp=sharing)
+- 📄 Know about my experiences (https://ronaldforte.com/)
 
 - ⚡ Fun fact **I am attempting to teach my cat how to code :)**
 
