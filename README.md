@@ -1,14 +1,10 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)
 <h1 align="center">Hi 👋, I'm Ronald Forte</h1>
-<h3 align="center">I'm a student at CUNY Hunter College who is working towards becoming a Software Engineer.</h3>
+<h3 align="center">I'm a graduate from CUNY Hunter College who is working towards becoming a Software Engineer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/TTy5YmVmhmWhq/giphy.webp">
 
-- 🔭 I’m currently working on Capstone in college.
-
-- 🌱 I’m currently learning **C++, JavaScript, but open to anything.**
-
-- 💬 Ask me about **C++, HTML, CSS, Python, SQL.**
+- 💬 Ask me about **C++, Python, SQL.**
 
 - 📫 How to reach me **ronaldjrforte@gmail.com**
 
